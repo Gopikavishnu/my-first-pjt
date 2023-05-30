@@ -1,4 +1,0 @@
-Host gopzz
-Hostname github.com
-Port 22
-Identity File ~/.ssh/id-rsa
